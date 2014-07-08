@@ -97,7 +97,6 @@ def make_change(amount, coins)
     change_1
   end
   
-  #make_change(amount, coins) <=> make_change(amount, coins[1..-1])
 end
   
 
